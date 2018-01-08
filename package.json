@@ -1,7 +1,7 @@
 {
   "name": "videomost",
   "version": "1.0.0",
-  "description": "Watch YouTube and Vimeo videos.",
+  "description": "Watch YouTube and Vimeo videos in a floating window.",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -17,6 +17,32 @@
   },
   "blah": {
     "h_img": "https://i.imgur.com/m16op2E.png",
+    "ex_img": "https://i.imgur.com/HC9tAZF.png",
     "show_instalation": false
+  },
+  "homepage": "https://github.com/IonicaBizau/videomost#readme",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/videomost.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/videomost/issues"
   }
 }
