@@ -9,6 +9,8 @@
 
 > Watch YouTube and Vimeo videos in a floating window.
 
+[![videomost](https://i.imgur.com/HC9tAZF.png)](#)
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
