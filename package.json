@@ -1,0 +1,22 @@
+{
+  "name": "videomost",
+  "version": "1.0.0",
+  "description": "Watch YouTube and Vimeo videos.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --all"
+  },
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "electron-packager": "^8.5.1"
+  },
+  "dependencies": {
+    "embed-video": "^1.3.0",
+    "sweetalert2": "^6.3.2"
+  },
+  "blah": {
+    "h_img": "https://i.imgur.com/m16op2E.png",
+    "show_instalation": false
+  }
+}
