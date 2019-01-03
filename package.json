@@ -1,6 +1,6 @@
 {
   "name": "videomost",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Watch YouTube and Vimeo videos in a floating window.",
   "main": "main.js",
   "scripts": {
