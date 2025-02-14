@@ -1,6 +1,6 @@
 {
   "name": "videomost",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Watch YouTube and Vimeo videos in a floating window.",
   "main": "main.js",
   "scripts": {
@@ -34,6 +34,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
